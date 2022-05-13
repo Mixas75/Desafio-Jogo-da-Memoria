@@ -4,4 +4,4 @@ Projeto efetuado como desafio do Bootcamp TQI Fullstack Developer ofertado pela 
 
 Utilizados fundamentos básicos de HTML, CSS e JS.
 
-Como diferencial, foram adicionados os contadores de tentativas de aceto, de modo a permitir que se avalie o processo de memorização.
+Em breve serão adicionados diferenciais, como: contador de tentativas de aceto, de modo a permitir que se avalie o processo de memorização, placar indicando o pontos do jogador e surgimento de um botão de refresh quando finalizado o puzzle.
